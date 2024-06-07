@@ -25,6 +25,8 @@ public class Program {
 		for (int i = 0; i < vect.length; i++) {
 			if(vect[i] == num) {
 				System.out.printf("O número %d está localizado na posição %d", num, i);
+			} else {
+				System.out.printf(" número %d não foi encontrado", num);
 			}
 		}
 
