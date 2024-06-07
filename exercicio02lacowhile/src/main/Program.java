@@ -62,14 +62,14 @@ public class Program {
             }
 		}
 		
-		double avarageAge = (double) sumAge / total;
+		double averegaAge = (double) sumAge / total;
 		
 		System.out.println("Número de pessoas desenvolvedoras Backend: " + backCount);
         System.out.println("Número de Mulheres Cis e Trans desenvolvedoras Frontend: " + frontFemCount);
         System.out.println("Número de Homens Cis e Trans desenvolvedores Mobile maiores de 40 anos: " + mobileMenCount);
         System.out.println("Número de Não Binários desenvolvedores FullStack menores de 30 anos: " + fullStackNBiCount);
         System.out.println("Número total de pessoas que responderam à pesquisa: " + total);
-        System.out.printf("Média de idade das pessoas que responderam à pesquisa: %.2f",  avarageAge);
+        System.out.printf("Média de idade das pessoas que responderam à pesquisa: %.2f",  averegaAge);
 		
 		sc.close();
 
