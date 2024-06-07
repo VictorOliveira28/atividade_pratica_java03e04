@@ -23,15 +23,16 @@ public class Program {
 		num = sc.nextInt();
 
 		for (int i = 0; i < vect.length; i++) {
-			if(vect[i] == num) {
+			if (vect[i] == num) {
 				System.out.printf("O número %d está localizado na posição %d", num, i);
-			} else {
-				System.out.printf(" número %d não foi encontrado", num);
+				return;
 			}
+
 		}
 
+		System.out.printf(" número %d não foi encontrado", num);
+		
 		sc.close();
-
 	}
 
 }
