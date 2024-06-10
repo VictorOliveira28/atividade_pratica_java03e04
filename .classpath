@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="condicional_do_while/exercicio01dowhile/src"/>
+	<classpathentry kind="src" path="condicional_do_while/exercicio02dowhile/src"/>
+	<classpathentry kind="src" path="condicional_if/exercicio01laco/src"/>
+	<classpathentry kind="src" path="condicional_if/exercicio02laco/src"/>
+	<classpathentry kind="src" path="condicional_if/exercicio03laco/src"/>
+	<classpathentry kind="src" path="condicional_if/exercicio04laco/src"/>
+	<classpathentry kind="src" path="condicional_if/exercicio05laco/src"/>
+	<classpathentry kind="src" path="condicional_if/exercicio06laco/src"/>
+	<classpathentry kind="src" path="condicional_if/exercicio07laco/src"/>
+	<classpathentry kind="src" path="condicional_if/exercicio08laco/src"/>
+	<classpathentry kind="src" path="condicional_while/exercicio01lacowhile/src"/>
+	<classpathentry kind="src" path="condicional_while/exercicio02lacowhile/src"/>
+	<classpathentry kind="src" path="laco_for/exercicio01lacofor/src"/>
+	<classpathentry kind="src" path="laco_for/exercicio02lacofor/src"/>
+	<classpathentry kind="src" path="matrizes/exercicio01matriz/src"/>
+	<classpathentry kind="src" path="matrizes/exercicio02matriz/src"/>
+	<classpathentry kind="src" path="primeiros_exercicios/exercicio01/src"/>
+	<classpathentry kind="src" path="primeiros_exercicios/exercicio02/src"/>
+	<classpathentry kind="src" path="primeiros_exercicios/exercicio03/src"/>
+	<classpathentry kind="src" path="primeiros_exercicios/exercicio04/src"/>
+	<classpathentry kind="src" path="vetores/exercicio01vetores/src"/>
+	<classpathentry kind="src" path="vetores/exercicio02vetor/src"/>
+	<classpathentry kind="output" path="condicional_do_while/exercicio01dowhile/bin"/>
+</classpath>
