@@ -6,7 +6,7 @@ import java.util.Iterator;
 import java.util.Scanner;
 import java.util.Set;
 
-public class Program {
+public class ProgramTwo {
 
 	public static void main(String[] args) {
 
@@ -25,9 +25,11 @@ public class Program {
 			int num = iList.next();
 			if(n == num) {
 				
-				System.out.printf("O número %d foi encontrado!", n);				
+				System.out.printf("O número %d foi encontrado!", n);
+				
 				return;
 			}
+			sc.close();
 		}
 		
 		System.out.printf("O número %d não foi encontrado!", n);
